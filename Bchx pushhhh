@@ -1,3 +1,7 @@
 git add bichox_metadata.json bichox_offchain.json
 git commit -m "Agrego metadata de Bichox"
 git push origin main
+metaboss update data \
+  --keypair ~/bichox-keypair.json \
+  --mint 4q9FNQS3sXGPzpF3Y8Dzz4R5viBQkWt5RrqF5SenFCXb \
+  --data ~/token-list/bichox-metadata/bichox_metadata.json
