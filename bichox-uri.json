@@ -1,0 +1,22 @@
+{
+  "name": "Bichox",
+  "symbol": "BCHX",
+  "description": "Bichox es una memecoin divertida sobre Solana",
+  "image": "https://raw.githubusercontent.com/elgustoesmiobichox/elgustosmiobichox/refs/heads/main/Captura%20de%20pantalla%202025-04-02%20225716.png",
+  "seller_fee_basis_points": 0,
+  "attributes": [
+    {
+      "trait_type": "Tipo",
+      "value": "Memecoin"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/elgustoesmiobichox/elgustosmiobichox/refs/heads/main/Captura%20de%20pantalla%202025-04-02%20225716.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
